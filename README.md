@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: June 27-28, 2024
-- Facilitator: @chrisn555-im
+- Facilitator: @chrisn555-im and others
 
 ## Class Resources
 
